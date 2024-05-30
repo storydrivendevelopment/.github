@@ -9,13 +9,13 @@ A story is a description of a feature or requirement of your product.
 Each story progresses through these stages, with the respective parties handling the story according to the stage-specific requirements.
 
 Story driven
-*[Planning](https://github.com/storydrivendevelopment/.github/planning.md)
-*Analysis
-*Design
-*Coding
-*Testing
-*Deployment
-*Maintenance
+* [Planning](https://github.com/storydrivendevelopment/.github/planning.md)
+* Analysis
+* Design
+* Coding
+* Testing
+* Deployment
+* Maintenance
 
 
 ## Mission
