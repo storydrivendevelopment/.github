@@ -1,2 +1,1 @@
-# Welcome to StoryDrivenDevelopment (SDD)
-
+the ./profile/readme.md is used as homepage
