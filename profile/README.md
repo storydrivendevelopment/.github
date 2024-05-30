@@ -2,11 +2,11 @@
 
 
 ## What?
-An *agile software development process* driven by **stories**.
+An *agile software development process* driven by **stories**. 
 
-The core stages of the software development process are planning, analysis, design, coding, testing, deployment and maintenance.
-A story is a description of a feature or requirement of your product.
-Each story progresses through these stages, with the respective parties handling the story according to the stage-specific requirements.
+A story is a description of a feature or requirement of your product. 
+The core stages of the software development process are planning, analysis, design, coding, testing, deployment and maintenance. 
+Each story progresses through these stages, with the respective parties handling the story according to the stage-specific requirements. 
 
 Story driven
 * [Planning](https://github.com/storydrivendevelopment/.github/planning.md)
